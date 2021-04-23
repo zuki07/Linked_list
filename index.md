@@ -5,7 +5,7 @@
 <!-- ![main image](images/main_image.jpg) -->
 
 <h4 align="center">
-  Javafx: type in a value at a given index.  Pressing the add button will add it to the double linked list. Type in a value at a given index and pressing the remove button will remove the item. This program uses a double linked list to sort the list and reverse it.  
+  Javafx: This program uses a double linked list class to add, remove, sort, and reverse nodes.  The main GUI program will check to make sure the correct data type has been entered before proceeding forward.  Anything that is not correct will be displayed in an error message.  
 </h4>
 <br>
 
